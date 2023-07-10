@@ -1,0 +1,4 @@
+# Sample
+{
+body color:yellow
+}
