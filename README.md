@@ -1,4 +1,4 @@
 # Sample
 {
-body color:yellow
+body color:yellow;
 }
