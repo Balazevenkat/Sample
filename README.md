@@ -1,5 +1,5 @@
 # Sample
 {
-body color:yellow
+body color:yellow;
 }
-<h1>hello </h1>
+<h1>hello every one </h1>
